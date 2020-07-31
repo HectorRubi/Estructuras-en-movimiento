@@ -1,0 +1,77 @@
+# Ignore bynary files
+img/
+video/
+
+#ignore common css files
+## Bootstrap
+css/bootstrap.css
+css/bootstrap.min.css
+
+## Font Awesome
+css/font-awesome.min.css
+
+## Local Themes
+css/theme.css
+css/theme-chipotle.css
+css/theme-fire.css
+css/theme-gunmetal.css
+css/theme-hyperblue.css
+css/theme-nature.css
+css/theme-navy.css
+css/theme-nearblack.css
+css/theme-offyellow.css
+css/theme-orange.css
+css/theme-purple.css
+css/theme-red.css
+css/theme-startup.css
+
+## CSS Font files
+css/font-dosis.css
+css/font-georgia.css
+css/font-montserrat.css
+css/font-opensans.css
+css/font-oswald.css
+css/font-pathway.css
+css/font-poppins.css
+css/font-roboto.css
+css/font-robotocondensed.css
+css/font-titillium.css
+
+## Lightbox
+css/lightbox.min.css
+
+## Flexslider
+css/flexslider.css
+
+## Icons
+css/et-line-icons.css
+css/themify-icons.css
+css/pe-icon-7-stroke.css
+
+## YouTube Player
+css/ytplayer.css
+
+# Ignore common Less files
+css/less/theme.less
+
+# Ignore font files
+fonts/
+
+# Ignore common JS files
+js/bootstrap.js
+js/bootstrap.min.js
+js/jquery.min.js
+js/countdown.min.js
+js/flexslider.min.js
+js/flickr.js
+js/lightbox.min.js
+js/masonry.min.js
+js/parallax.js
+js/smooth-scroll.min.js
+js/spectragram.min.js
+js/twitterfetcher.min.js
+js/ytplayer.min.js
+js/scripts.js
+
+# Ignore mail library
+mail/
