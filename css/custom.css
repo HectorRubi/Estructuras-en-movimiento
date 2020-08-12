@@ -1,1 +1,16 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
+.menu .social-media-icon {
+    font-size: 2em;
+}
+
+.hero .hero-title {
+    font-size: 3.5em;
+    font-weight: bold;
+}
+.hero .hero-more {
+    font-size: 1.5em;
+    border-bottom: 5px solid #e57221;
+}
+.hero .hero-more:hover {
+    border-bottom-color: white;
+}
