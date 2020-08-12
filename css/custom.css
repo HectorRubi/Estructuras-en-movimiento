@@ -14,3 +14,18 @@
 .hero .hero-more:hover {
     border-bottom-color: white;
 }
+
+.section-title {
+    font-weight: bold;
+}
+
+.services-item-title {
+    font-size: 1.8em;
+    font-weight: bold;
+}
+.services .services-item .more {
+    font-size: 1.2em;
+}
+.services .services-item .more i {
+    margin-left: 15px;
+}
