@@ -23,9 +23,29 @@
     font-size: 1.8em;
     font-weight: bold;
 }
-.services .services-item .more {
+
+.our-history-header {
+    display: flex;
+    align-items: center;
+    min-height: 150px;
+}
+.our-history-header .icon {
+    margin: 0;
+    margin-right: 20px;
+}
+.our-history-header .titles-container {
+    text-align: left;
+}
+.our-history-header .titles-container .title {
+    margin: 0;
+}
+.our-history-header .titles-container .subtitle {
+    font-size: 1.5em;
+}
+
+.more {
     font-size: 1.2em;
 }
-.services .services-item .more i {
+.more i {
     margin-left: 15px;
 }
