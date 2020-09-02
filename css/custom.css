@@ -80,6 +80,9 @@
 .more i {
     margin-left: 15px;
 }
+.image-bg .more.primary {
+    color: #e57221;
+}
 
 .divider {
     background-color: #e57221;
