@@ -1,2 +1,3 @@
-# Estructuras-en-movimiento
-Página de residencias para EEM
+# Estructuras en movimiento
+<p>Página de residencias para EEM</p>
+<a href="residencias.html">Residencias</a>
