@@ -51,6 +51,24 @@
     margin-top: 10px;
 }
 
+.white-element {
+    background-color: white;
+    padding: 30px 40px;
+}
+.image-bg .white-element h2,
+.image-bg .white-element p {
+    color: black;
+}
+.white-element .play-button {
+    background-color: coral;
+    margin-right: 20px;
+}
+.white-element .play-button-video {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+
 /* Generic Rules */
 .section-title {
     font-weight: bold;
