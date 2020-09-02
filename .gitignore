@@ -1,5 +1,5 @@
 # Ignore bynary files
-img/
+# img/
 video/
 
 #ignore common css files
