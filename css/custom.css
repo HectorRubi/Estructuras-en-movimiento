@@ -1,90 +1,104 @@
 /****** PLACE YOUR CUSTOM STYLES HERE ******/
+
 .menu .social-media-icon {
-    font-size: 2em;
+  font-size: 2em;
 }
 
 .hero .hero-title {
-    font-size: 3.5em;
-    font-weight: bold;
+  font-size: 3.5em;
+  font-weight: bold;
 }
+
 .hero .hero-more {
-    font-size: 1.5em;
-    border-bottom: 5px solid #e57221;
+  font-size: 1.5em;
+  border-bottom: 5px solid #e57221;
 }
+
 .hero .hero-more:hover {
-    border-bottom-color: white;
+  border-bottom-color: white;
 }
 
 .services-item-title {
-    font-size: 1.8em;
-    font-weight: bold;
+  font-size: 1.8em;
+  font-weight: bold;
 }
 
 .our-history-header {
-    display: flex;
-    align-items: center;
-    min-height: 150px;
-}
-.our-history-header .icon {
-    margin: 0;
-    margin-right: 20px;
-}
-.our-history-header .titles-container {
-    text-align: left;
-}
-.our-history-header .titles-container .title {
-    margin: 0;
-}
-.our-history-header .titles-container .subtitle {
-    font-size: 1.5em;
+  display: flex;
+  align-items: center;
+  min-height: 150px;
 }
 
-.double .subtitle{
-    margin: 0;
-    font-weight: bold;
-    font-size: 1.5em;
+.our-history-header .icon {
+  margin: 0;
+  margin-right: 20px;
 }
+
+.our-history-header .titles-container {
+  text-align: left;
+}
+
+.our-history-header .titles-container .title {
+  margin: 0;
+}
+
+.our-history-header .titles-container .subtitle {
+  font-size: 1.5em;
+}
+
+.double .subtitle {
+  margin: 0;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
 .double .section-title {
-    margin-bottom: 10px;
+  margin-bottom: 10px;
 }
+
 .double p {
-    margin-top: 10px;
+  margin-top: 10px;
 }
 
 .white-element {
-    background-color: white;
-    padding: 30px 40px;
+  background-color: white;
+  padding: 30px 40px;
 }
-.image-bg .white-element h2,
-.image-bg .white-element p {
-    color: black;
+
+.image-bg .white-element h2, .image-bg .white-element p {
+  color: black;
 }
+
 .white-element .play-button {
-    background-color: coral;
-    margin-right: 20px;
+  background-color: coral;
+  margin-right: 20px;
 }
+
 .white-element .play-button-video {
-    display: flex;
-    justify-content: start;
-    align-items: center;
+  display: flex;
+  justify-content: start;
+  align-items: center;
 }
 
 /* Generic Rules */
+
 .section-title {
-    font-weight: bold;
+  font-weight: bold;
 }
 
 .more {
-    font-size: 1.2em;
+  font-size: 1.2em;
 }
+
 .more i {
-    margin-left: 15px;
+  margin-left: 15px;
 }
+
 .image-bg .more.primary {
-    color: #e57221;
+  color: #e57221;
 }
 
 .divider {
-    background-color: #e57221;
-    height: 2px;
+  background-color: #e57221;
+  height: 2px;
 }
